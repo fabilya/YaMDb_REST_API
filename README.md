@@ -22,7 +22,7 @@ The average rating is automatically calculated for each composition.
 ### Installation
 * Clone repository:
 ```
-git clone git@github.com:MicroElf/api_yamdb.git
+git clone git@github.com:fabilya/api_yamdb.git
 ```
 * Install and activate virtual environment with Python 3.9:
 ```
